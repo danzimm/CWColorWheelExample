@@ -1,1 +1,1 @@
-(CWColorWheel)[https://github.com/danzimm/CWColorWheel]
+[CWColorWheel](https://github.com/danzimm/CWColorWheel)
